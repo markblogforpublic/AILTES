@@ -1,0 +1,44 @@
+{
+  "models": [
+    {
+      "name": "whisper-tiny",
+      "display": "Whisper Tiny",
+      "type": "asr",
+      "format": "whisper",
+      "param_b": "~1 GB",
+      "min_vram": 0
+    },
+    {
+      "name": "whisper-base",
+      "display": "Whisper Base",
+      "type": "asr",
+      "format": "whisper",
+      "param_b": "~1.5 GB",
+      "min_vram": 0
+    },
+    {
+      "name": "whisper-small",
+      "display": "Whisper Small",
+      "type": "asr",
+      "format": "whisper",
+      "param_b": "~3 GB",
+      "min_vram": 0.5
+    },
+    {
+      "name": "whisper-medium",
+      "display": "Whisper Medium",
+      "type": "asr",
+      "format": "whisper",
+      "param_b": "~6 GB",
+      "min_vram": 3
+    },
+    {
+      "name": "whisper-large",
+      "display": "Whisper Large",
+      "type": "asr",
+      "format": "whisper",
+      "param_b": "~12 GB",
+      "min_vram": 6
+    }
+  ]
+}

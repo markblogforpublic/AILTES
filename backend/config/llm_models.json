@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "name": "deepseek-api",
+      "display": "API (Online)",
+      "type": "understanding",
+      "format": "api",
+      "param_b": "",
+      "min_vram": 0
+    },
+    {
+      "name": "openai-api",
+      "display": "OpenAI API (Online)",
+      "type": "understanding",
+      "format": "api",
+      "param_b": "",
+      "min_vram": 0
+    }
+  ]
+}
