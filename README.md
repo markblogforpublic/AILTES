@@ -74,6 +74,10 @@ Full license text: https://www.gnu.org/licenses/gpl-3.0.html
 Landing page with feature overview and call-to-action to start practicing.
 
 首页，展示功能概览和开始练习入口。
+<img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/ebfdb700-3c9f-448b-aefe-e52d35b9c38a" />
+
+<img width="1722" height="1191" alt="屏幕截图 2026-05-05 112152" src="https://github.com/user-attachments/assets/2d22648d-afd0-4a1c-96c4-7d8a1e0ecba9" />
+
 
 ### 🎯 Practice (`/practice`)
 The core speaking practice interface. On first visit, a **Device Check** modal runs automatically to verify ASR and LLM are configured correctly.
@@ -107,6 +111,10 @@ Chronological list of past practice sessions with average scores per dimension. 
 
 按时间排列的历次练习记录，附各维度平均分。一览过往表现。
 
+
+<img width="1406" height="672" alt="屏幕截图 2026-05-05 112237" src="https://github.com/user-attachments/assets/2bc6634f-6542-49df-b214-7ab583d07edf" />
+<img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/1c36d721-514b-4f01-b7d6-ba6e9a7183e6" />
+
 ### ⚙️ Settings (`/settings`)
 Full system configuration page:
 
@@ -123,6 +131,12 @@ Full system configuration page:
 | **License & Disclaimer** | GPL v3+ terms, educational use notice | GPL v3+ 条款、教育用途声明 |
 
 ---
+
+<img width="1459" height="993" alt="屏幕截图 2026-05-05 112244" src="https://github.com/user-attachments/assets/084c2420-4513-4e24-a522-875bb7fa814a" />
+<img width="1406" height="672" alt="屏幕截图 2026-05-05 112237" src="https://github.com/user-attachments/assets/da74d2ba-3adb-4d77-a84e-541f4cc77b2e" />
+
+
+
 
 ## Architecture | 架构
 
