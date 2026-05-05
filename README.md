@@ -84,6 +84,9 @@ The core speaking practice interface. On first visit, a **Device Check** modal r
 
 核心口语练习界面。首次访问时自动弹出**设备检查**窗口验证语音识别和理解模型。
 
+<img width="741" height="710" alt="屏幕截图 2026-05-05 112449" src="https://github.com/user-attachments/assets/52d82648-1302-4ce9-bbfa-076c60d69eeb" />
+
+
 **Toolbar | 工具栏：**
 | Control | Function | 功能 |
 |---|---|---|
@@ -112,7 +115,8 @@ Chronological list of past practice sessions with average scores per dimension. 
 按时间排列的历次练习记录，附各维度平均分。一览过往表现。
 
 
-<img width="1406" height="672" alt="屏幕截图 2026-05-05 112237" src="https://github.com/user-attachments/assets/2bc6634f-6542-49df-b214-7ab583d07edf" />
+<img width="741" height="710" alt="屏幕截图 2026-05-05 112449" src="https://github.com/user-attachments/assets/2d3f3046-059e-4c99-90bd-8192f6a8e080" />
+
 <img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/1c36d721-514b-4f01-b7d6-ba6e9a7183e6" />
 
 ### ⚙️ Settings (`/settings`)
