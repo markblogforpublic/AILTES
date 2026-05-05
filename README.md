@@ -74,7 +74,7 @@ Full license text: https://www.gnu.org/licenses/gpl-3.0.html
 Landing page with feature overview and call-to-action to start practicing.
 
 首页，展示功能概览和开始练习入口。
-<img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/ebfdb700-3c9f-448b-aefe-e52d35b9c38a" />
+
 
 <img width="1722" height="1191" alt="屏幕截图 2026-05-05 112152" src="https://github.com/user-attachments/assets/2d22648d-afd0-4a1c-96c4-7d8a1e0ecba9" />
 
@@ -113,11 +113,9 @@ Score trends over time and weakness analysis. Charts show progress across Fluenc
 Chronological list of past practice sessions with average scores per dimension. Review previous performance at a glance.
 
 按时间排列的历次练习记录，附各维度平均分。一览过往表现。
+<img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/ebfdb700-3c9f-448b-aefe-e52d35b9c38a" />
 
 
-<img width="741" height="710" alt="屏幕截图 2026-05-05 112449" src="https://github.com/user-attachments/assets/2d3f3046-059e-4c99-90bd-8192f6a8e080" />
-
-<img width="1698" height="344" alt="屏幕截图 2026-05-05 112223" src="https://github.com/user-attachments/assets/1c36d721-514b-4f01-b7d6-ba6e9a7183e6" />
 
 ### ⚙️ Settings (`/settings`)
 Full system configuration page:
