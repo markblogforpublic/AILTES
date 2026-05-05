@@ -1,6 +1,6 @@
 # GNU GENERAL PUBLIC LICENSE
 # Version 3, 29 June 2007 — with Non-Commercial Addendum
-# Copyright (C) 2026 Mark (tymfroever218@gmail.com)
+# Copyright (C) 2026 Mark 
 
 ---
 
