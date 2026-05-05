@@ -1,4 +1,4 @@
-# AI English Speaking Evaluation System
+# AI English Speaking Evaluation System [![License: GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # AI 英语口语评估系统
 
 AI-driven interactive IELTS speaking practice platform with multi-dimensional expression quality evaluation.
@@ -22,7 +22,7 @@ This project bridges that gap: a fully open-source, locally-runnable AI examiner
 ---
 
 ## ⚖️ LICENSE — GNU GPL v3+ (Non-Commercial)
-
+[![License: GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ```
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
